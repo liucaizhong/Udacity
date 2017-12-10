@@ -1,2 +1,2 @@
 # Udacity
-# Udacity
+# homework for courses
